@@ -1,7 +1,7 @@
 # CSC5008Z
 Folder containing my tasks and assignments for CSC5008Z Data Visualisation at UCT
 
-# Visualisation Task 1
+## Visualisation Task 1
 
 #### Instructions
 Your task is to produce a good visualisation of the final results in Computer Science courses 2019 to 2023  ( in .csv format). You can use any software to do this. The idea is to do your best, please put some effort into it.
