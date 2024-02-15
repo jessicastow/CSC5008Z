@@ -1,5 +1,5 @@
 ## Visualisation Task 1
-# CSC5008Z
+### CSC5008Z
 
 #### Instructions
 Your task is to produce a good visualisation of the final results in Computer Science courses 2019 to 2023  ( in .csv format). You can use any software to do this. The idea is to do your best, please put some effort into it.
